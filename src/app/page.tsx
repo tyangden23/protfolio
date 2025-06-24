@@ -214,7 +214,7 @@ export default function Portfolio() {
           <div className="animate-fade-in">
             <div className="mb-6">
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face" 
+                src="/assets/pic.jpeg" 
                 alt="Profile" 
                 className="w-24 h-24 rounded-full mx-auto mb-4 border-4 border-blue-400/50 shadow-lg"
               />
